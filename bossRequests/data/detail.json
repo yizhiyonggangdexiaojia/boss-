@@ -1,0 +1,111 @@
+{
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "pageType": 0,
+    "selfAccess": false,
+    "securityId": "kESVznxaGDHPB-M1YlOROjKZDyREfdA-0BMi3n8zv1sVG1ngkCDLsY2e9cvkao5SMRw-23Qz_UM15n1g8E8nSjqkbZ1TW2KofiXPPGup7OU7S_ZKMcRqNjjk0AmQRgFSbiH1LygR6xaOWpzM4bjxS5H8rbJV2TR87da7QKEeN6YkC6EgPo3xWRIoQ0SAz4Y~",
+    "sessionId": null,
+    "lid": "2XMHfiFUWfz.search.2",
+    "jobInfo": {
+      "encryptId": "c686842bccbbb2df1Hd62NW5E1JV",
+      "encryptUserId": "34db335cebab4b930Xd62N64FFZQ",
+      "invalidStatus": false,
+      "jobName": "后端开发实习生-生活服务",
+      "position": 100101,
+      "positionName": "Java",
+      "location": 101020100,
+      "locationName": "上海",
+      "experienceName": "3天/周 3个月",
+      "degreeName": "本科",
+      "jobType": 4,
+      "proxyJob": 0,
+      "proxyType": 0,
+      "salaryDesc": "400-450元/天",
+      "payTypeDesc": null,
+      "postDescription": "1、参与生活服务相关的后台研发工作，包括各个系统的设计实现和开发工作，支撑业务快速迭代，保证服务质量；\n2、参与业务系统线上维护，解决线上问题；\n3、持续迭代和优化系统，提升性能，可用性以及扩展性；\n4、与产品形成协同，将技术应用到业务场景。\n职位要求\n1、2024届本科及以上学历在读，计算机、软件工程等相关专业优先；\n2、理解Linux系统及其原理，熟悉TCP/IP、HTTP协议以及网络编程；理解面向对象开发，具备一定的系统分析设计能力；\n3、热爱写代码，对技术有热情，认真负责，乐于协作；\n4、精通Linux平台上的Java/Go/C/C++/Python等至少一门语言；\n5、每周可以实习4天及以上，连续实习4个月以上，表现优异可转正。",
+      "encryptAddressId": "11d9b7accc177cc91HNy2dS8ElVZxIu7WfI~",
+      "address": "上海杨浦区抖音新江湾广场上海市杨浦区民府路678号抖音新江湾广场T1号楼、T2号楼、T4号楼",
+      "longitude": 121.508698,
+      "latitude": 31.315212,
+      "staticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bfb76c17ffd95151c51c28121e412f38c96bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "pcStaticMapUrl": "https://img.bosszhipin.com/beijin/upload/amap_proxy/20230815/48ba41acc9cef1bf515f96a8679a26c71cd397702b82782c6bb61e3b7bce0931da574d19d1d82c88.jpg.webp",
+      "overseasAddressList": [],
+      "showSkills": [
+        "C++",
+        "Python",
+        "Golang",
+        "Spring",
+        "JVM",
+        "MySQL"
+      ],
+      "anonymous": 0,
+      "jobStatusDesc": "招聘中"
+    },
+    "bossInfo": {
+      "name": "许先生",
+      "title": "程序员",
+      "tiny": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+      "large": "https://img.bosszhipin.com/boss/avatar/avatar_5.png",
+      "activeTimeDesc": "刚刚活跃",
+      "bossOnline": true,
+      "brandName": "北京字节跳动",
+      "bossSource": 0,
+      "certificated": true
+    },
+    "brandComInfo": {
+      "encryptBrandId": "7d01ce6cfe2022030HJ409y-",
+      "brandName": "北京字节跳动",
+      "logo": "https://img.bosszhipin.com/beijin/upload/com/workfeel/20230811/7bf6f160950405e993d5441fb36ed39b6e0ceee2dc5889061408317c856c491f5c0c40aafab8d582.png.webp",
+      "stage": 808,
+      "stageName": "不需要融资",
+      "scale": 306,
+      "scaleName": "10000人以上",
+      "industry": 100019,
+      "industryName": "移动互联网",
+      "introduce": "字节跳动成立于2012年3月，公司使命为“Inspire Creativity, Enrich Life（激发创造，丰富生活）”。公司业务覆盖150个国家和地区，拥有15万名员工。\n字节跳动在全球推出了多款有影响力的产品，包括今日头条、抖音、西瓜视频、飞书、Lark、PICO、剪映、TikTok等。截至2021年6月，字节跳动旗下产品全球月活跃用户数超过19亿。",
+      "labels": [
+        "就近租房补贴",
+        "餐饮及下午茶",
+        "年度体检",
+        "节日礼品",
+        "免费健身设施",
+        "家庭关爱假",
+        "家属自选保险",
+        "弹性工作制",
+        "零食下午茶",
+        "包吃",
+        "带薪年假",
+        "法定节假日三薪",
+        "节假日加班费",
+        "加班补助",
+        "绩效奖金",
+        "年终奖",
+        "定期体检",
+        "意外险",
+        "补充医疗保险",
+        "五险一金"
+      ],
+      "activeTime": 1710658749923,
+      "visibleBrandInfo": true,
+      "focusBrand": false,
+      "customerBrandName": "北京字节跳动",
+      "customerBrandStageName": "不需要融资"
+    },
+    "oneKeyResumeInfo": {
+      "inviteType": 0,
+      "alreadySend": false,
+      "canSendResume": false,
+      "canSendPhone": false,
+      "canSendWechat": false
+    },
+    "relationInfo": {
+      "interestJob": false,
+      "beFriend": false
+    },
+    "handicappedInfo": null,
+    "appendixInfo": {
+      "canFeedback": true
+    }
+  }
+}
