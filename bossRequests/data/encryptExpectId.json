@@ -1,66 +1,66 @@
 {
-    "code": 0,
-    "message": "Success",
-    "zpData": {
-        "mixExpect": null,
-        "expectList": [
-            {
-                "id": 874996775,
-                "encryptId": "7d69981ec0cd25b633N-0tS7F1VV",
-                "location": 101250100,
-                "locationName": "长沙",
-                "subLocation": 0,
-                "subLocationName": null,
-                "position": 10000006,
-                "positionName": "Python",
-                "positionType": 0,
-                "salary": "6-10K",
-                "lowSalary": 6,
-                "highSalary": 10
-            },
-            {
-                "id": 875015090,
-                "encryptId": "d4dcfedd6d27acac33N_29y4EFtQ",
-                "location": 101250100,
-                "locationName": "长沙",
-                "subLocation": 0,
-                "subLocationName": null,
-                "position": 10000014,
-                "positionName": "数据开发",
-                "positionType": 0,
-                "salary": "8-12K",
-                "lowSalary": 8,
-                "highSalary": 12
-            },
-            {
-                "id": 875026736,
-                "encryptId": "2621ebf4b432528233N_29-7F1FW",
-                "location": 101250100,
-                "locationName": "长沙",
-                "subLocation": 0,
-                "subLocationName": null,
-                "position": 10000019,
-                "positionName": "后端开发",
-                "positionType": 0,
-                "salary": "9-12K",
-                "lowSalary": 9,
-                "highSalary": 12
-            },
-            {
-                "id": 875022229,
-                "encryptId": "414ad8fe5d55766133N_29-_ElBZ",
-                "location": 101250100,
-                "locationName": "长沙",
-                "subLocation": 0,
-                "subLocationName": null,
-                "position": 10000025,
-                "positionName": "前端/移动开发",
-                "positionType": 0,
-                "salary": "6-7K",
-                "lowSalary": 6,
-                "highSalary": 7
-            }
-        ],
-        "partTimeExpectList": []
-    }
+  "code": 0,
+  "message": "Success",
+  "zpData": {
+    "mixExpect": null,
+    "expectList": [
+      {
+        "id": 874996775,
+        "encryptId": "7d69981ec0cd25b633N-0tS7F1VV",
+        "location": 101250100,
+        "locationName": "长沙",
+        "subLocation": 0,
+        "subLocationName": null,
+        "position": 10000006,
+        "positionName": "Python",
+        "positionType": 0,
+        "salary": "6-10K",
+        "lowSalary": 6,
+        "highSalary": 10
+      },
+      {
+        "id": 875015090,
+        "encryptId": "d4dcfedd6d27acac33N_29y4EFtQ",
+        "location": 101250100,
+        "locationName": "长沙",
+        "subLocation": 0,
+        "subLocationName": null,
+        "position": 10000014,
+        "positionName": "数据开发",
+        "positionType": 0,
+        "salary": "8-12K",
+        "lowSalary": 8,
+        "highSalary": 12
+      },
+      {
+        "id": 875026736,
+        "encryptId": "2621ebf4b432528233N_29-7F1FW",
+        "location": 101250100,
+        "locationName": "长沙",
+        "subLocation": 0,
+        "subLocationName": null,
+        "position": 10000019,
+        "positionName": "后端开发",
+        "positionType": 0,
+        "salary": "9-12K",
+        "lowSalary": 9,
+        "highSalary": 12
+      },
+      {
+        "id": 875022229,
+        "encryptId": "414ad8fe5d55766133N_29-_ElBZ",
+        "location": 101250100,
+        "locationName": "长沙",
+        "subLocation": 0,
+        "subLocationName": null,
+        "position": 10000025,
+        "positionName": "前端/移动开发",
+        "positionType": 0,
+        "salary": "6-7K",
+        "lowSalary": 6,
+        "highSalary": 7
+      }
+    ],
+    "partTimeExpectList": []
+  }
 }
