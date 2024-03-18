@@ -38,13 +38,13 @@ def main():
         'industry': '',
         'scale': '',
         'salary': '',
-        'jobType': '1902',
+        'jobType': '',
         'encryptExpectId': encryptId,
         'mixExpectType': '',
         'page': '1',
         'pageSize': '15',
     }
-    for i in range(3):
+    for i in range(50):
         data = []
         params["page"] = str(i + 1)
         response = requests.get(
