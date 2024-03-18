@@ -1,13 +1,32 @@
+import random
+import time
+
 import requests
 from config import *
+
+listSecurityId = [
+    "4wJO8sDqOWAta-819FDMllyT25RL3YC6QyYrnr-h8GqprJGiVCnC-s9oG3HdHA6YznI-DK68stOGyOJKeKAgVGHr-HkUkt4MDh2bJ9ew7KdyiTAaXKjbpXNv"
+]
+
+params = {
+    'securityId': '',
+    'jobId': 'b8a6f6603ad49b711XF92dy6FVZX',
+    'lid': '2u1SeMQAIII.search.3',
+}
 
 data = {
     'sessionId': '',
 }
 
-response = requests.post(
-    'https://www.zhipin.com/wapi/zpgeek/friend/add.json?securityId=U710MIQzRwxLn-m1IjajhAoE29W1OKIkhKxpNofde1FkR3iAGCSWqyQ3rPC3asi02Djpo0Eer_wPYUUAaHrfMHTQlFj6DAZeezF-SWyaaKHsXLVRthUBSb4JOofM4YBy6QNELc3PdoSG4CrjLtXu2B9_mw2TYdveqeWJZtWl3e77asbrMULY1LcryaQBcw~~&jobId=0f260c2f33e952411XN73dS9EVFZ&lid=731bdb1f-bb25-41ce-bf13-b9c85ba281e6.f1:common.eyJzZXNzaW9uSWQiOiIzNzY3NmY5Ni1kZTQ2LTRiNjEtOGQ2MS02NWMzMjQ1NTY3ZmMiLCJyY2RCelR5cGUiOiJmMV9ncmNkIn0.1',
-    cookies=cookies,
-    headers=headers,
-    data=data,
-)
+for securityId in listSecurityId:
+    params['securityId'] = securityId
+    response = requests.post(
+        'https://www.zhipin.com/wapi/zpgeek/friend/add.json',
+        params=params,
+        cookies=cookies,
+        headers=headers,
+        data=data,
+    )
+    print("向boss发送：", response.json()['zpData']['greeting'])
+    # 避免发送过快
+    time.sleep(1 + random.random() * 1)
