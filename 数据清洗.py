@@ -45,6 +45,9 @@ for arrStr in listTxt.split("\n"):
             "id": ""
         }
         raw = detail(father["securityId"])
+        if "jobInfo" not in raw["zpData"]:
+            print(raw["zpData"])
+            continue
         item = raw["zpData"]["jobInfo"]
         baseList["id"] = raw["zpData"]["securityId"]
         baseList["标题"] = item["jobName"]
